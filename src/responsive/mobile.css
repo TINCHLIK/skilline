@@ -1,0 +1,290 @@
+/* shablon bo'yicha 768pxdan maksimal 1920px gacha shu amal qiladi */
+@media (max-width:1920px){
+    /* .myHeader{
+        height: 2000px;
+    } */
+    .customHeader{
+        padding-left:20px !important;
+        padding-right:10px !important;
+    }
+    .headerLink{
+        margin-right: 20px !important;
+    }
+}
+
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) { 
+    .myHeader{
+        height: 1250px !important;
+    }
+    .headerLeftContentWork{
+        width: 70%;
+    }
+    .headerLeftContent p{
+        font-size: 16px;
+    }
+    .headerLeftContentPlay{
+        /* margin-left: -190px !important; */
+        position: relative;
+        top: 70px;
+        left:-210px !important;
+    }
+    .headerLeftContentPTag{
+        position: relative;
+        /* margin-right: 74px !important; */
+        top: 115px;
+        right: 74px;
+    }
+
+/* ******************************* */
+.T_R_Img_Container{
+    position: relative;
+    max-width: 400px !important;
+}
+.T_R_Img_1{
+    width: 50% !important;
+    border-radius:20px
+}
+.T_R_Img_2{
+    position: absolute;
+    top: 15px !important;
+    left: 100px !important;
+}
+.T_R_Text_Container{
+    position: relative;
+    bottom: 90px !important;
+    width: 400px !important;
+    height: 200px !important;
+}
+.T_R_Text_Container::after{
+    Content:"";
+    position:absolute;
+    height: 200px !important;
+}
+.T_R_Text_Container::before{
+    Content:"";
+    position: absolute;
+    height: 69px !important;
+}
+.T_R_TC_Text{
+    width: 300px !important;
+    font-size: 12px !important;
+}
+.T_R_TC_Text_Link{
+    position: absolute;
+    top: 150px !important;
+    left: 40px !important;
+    font-size: 12px !important;
+}
+.T_R_TC_Star{
+    position: absolute;
+    bottom: 45px !important;
+    left: 245px !important;
+}
+.T_R_TC_Reviews{
+    position: absolute;
+    bottom: 5px !important;
+    left: 246px !important;
+}
+
+
+/* ******************************* */
+ }
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) {
+    .myHeader{
+        height: 1430px !important;
+    } 
+    .customHeader{
+        padding-left:30px !important;
+        padding-right:30px !important;
+    }
+    .headerLeftContent{
+        padding-left: 74px !important;
+    }
+    .headerLeftContentWork{
+        width: 80%;
+    }
+    .headerLeftContentBtn{
+        height: 60px;
+        width: 200px;
+        border-radius:60px !important;
+        font-size: 20px !important;
+        letter-spacing: 0.08em !important;
+    }
+    .headerLeftContentPlay{
+        margin-left: 0px !important;
+    }
+    .headerLeftContentPTag{
+        margin-left: 0px !important;
+    }
+
+/* HEADER TUGADI */
+
+    .cloudTitle{
+        margin: 0 auto;
+        margin-top: 20px;
+        width: 450px !important;
+        height: 86px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px !important;
+        line-height: 180%;
+    }
+
+
+    .myForm button{
+        display: flex !important;
+        margin: 0 auto !important;
+        margin-top: 15px !important;
+    }
+ }
+
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (max-width: 991px) { 
+    .myHeader{
+        height: 1680px !important;
+    }
+    .headerLink{
+        box-shadow:0px 0.125rem 0.25rem rgba(0,0,0, 0.75);
+        text-align: center;
+        border-radius:80px;
+        margin: 0px !important;
+        margin-top:8px !important;
+    }
+    .customHeader>div>form{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0px !important;
+        padding-bottom: 10px;
+    }
+    .headerLogin,.headerSignUp{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        width: 100%;
+        margin: 0 !important;
+        margin-top:8px !important;
+        box-shadow:0px 0.125rem 0.25rem rgba(0,0,0, 0.75);
+    }
+}
+
+
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    .myHeader{
+        height: 1330px !important;
+    }
+ }
+
+
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (max-width: 1400px) {
+    .myHeader{
+        height: 1400px !important;
+    }
+    .headerLeftContent{
+        padding-left: 74px !important;
+        margin: 0px auto;
+    }
+    .headerRigtContentPicture{
+        width: 80% !important;
+        margin: 0px auto;
+    }
+    .whatisskillineTitle{
+        width: 85% !important;
+        height: 129px;
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px !important;
+        text-align: justify !important;
+    }
+
+    .lessonTime{
+        width: 750px !important;
+        margin: 0px auto;
+    }
+    .lessonImg{
+        width: 350px !important;
+        height: 250px !important;
+    }
+    .lessonTitle{
+        font-size: 20px !important;
+    }
+    .lessonBtn1{
+        width: 240px !important;
+        height: 50px !important;
+        font-size: 16px !important;
+        margin-top: 17px;
+        
+    }
+    .lessonBtn2{
+        margin-top: 17px;
+        width: 240px !important;
+        height: 50px !important;
+        font-size: 16px !important;
+    }
+    .lesson1{
+        bottom: 200px !important;
+    }
+    .lesson2{
+        bottom: 200px !important;
+    }
+
+
+    .
+    .T_L_Container{
+        margin-left: 300px;
+        max-width: 300px !important;
+        margin-right: 12px !important;
+        
+    }
+    .T_L_Col1_Text{
+        font-size: 14px !important;
+    }
+    .T_L_Col2_Text{
+        margin-top: -40px !important;
+        margin-bottom: 0px !important;
+        font-size: 24px !important;
+    }
+    .T_L_Col3_Text{
+        font-size: 16px !important;
+    }
+    .T_L_Col4_Text{
+        font-size: 16px !important;   
+    }
+    .T_L_Col5_Text{
+        font-size: 16px !important;   
+    }
+    .T_L_Col6_Btn{
+        width: 220px !important;
+        height: 50px !important;
+        font-size: 14px !important;
+        padding-right: 20px;
+    }
+    .T_L_Col6_Btn_Circle{
+        position: relative;
+        top: -0px !important;
+        left: -50px !important;
+        width: 50px !important;
+        height: 50px !important;
+    }
+
+
+
+}
+
+
+

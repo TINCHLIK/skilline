@@ -1,0 +1,42 @@
+.myCard{
+    width: 450px;
+    height: 430px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 60px rgba(38, 45, 118, 0.08);
+    border-radius: 20px;
+    padding-left: 54px;
+    padding-top: 122px;
+    padding-right: 53px;
+    padding-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 160px;
+    margin-bottom: 158px;
+}
+.cloudTitle{
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 680px;
+    height: 86px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 180%;
+    color: #696984;
+}
+.cardIcon1{
+    position: relative;
+    top: -370px;
+    left: 80px;
+}
+.cardIcon2{
+    position: relative;
+    top: -370px;
+    left: 80px;
+}
+.cardIcon3{
+    position: relative;    
+    top: -330px;
+    left: 80px;
+}

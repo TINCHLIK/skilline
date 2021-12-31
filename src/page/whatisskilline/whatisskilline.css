@@ -1,0 +1,77 @@
+.whatisskilline{
+
+}
+.whatisskillineTitle{
+    margin: 0px auto;   
+    margin-bottom: 80px; 
+    margin-top: 20px;
+    width: 1101px;
+    height: 129px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #696984;
+}
+.lessonTime{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 1300px;
+    margin: 0px auto;
+}
+.lessonImg{
+    width: 600px;
+    height: 400px;
+}
+.lessonTitle{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.lessonBtn1{
+    width: 283px;
+    height: 80px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 80px;
+    background-color:transparent;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px !important;
+    line-height: 33px;
+    color: #FFFFFF;
+    margin-top: 17px;
+}
+.lessonBtn2{
+    margin-top: 17px;
+    width: 283px;
+    height: 80px;
+    background-color: rgba(35, 189, 238, 0.9);
+    border-radius: 80px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px !important;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+.lesson1{
+    position: relative;
+    bottom: 260px;
+    left: 0px;
+    outline: none;
+}
+.lesson2{
+    position: relative;
+    bottom: 260px;
+    left: 0px;
+    outline: none;
+}

@@ -1,0 +1,159 @@
+.T_Container{
+    margin-bottom: -150px;
+}
+.T_L_Container{
+    max-width: 607px;
+    margin-right: 132px;
+}
+.T_L_Col1_Text{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.2em;
+    color: #525596;
+    position: relative;
+    top: -25px;
+    left: 100px;
+}
+.T_L_Col2_Text{
+    margin-top: -30px;
+    margin-bottom: 29px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 82px;
+    color: #2F327D;
+}
+.T_L_Col3_Text{
+    margin-bottom: 26px; 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 160%;
+    letter-spacing: 0.02em;
+    color: #696984;
+}
+.T_L_Col4_Text{
+    margin-bottom: 26px; 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 160%;
+    letter-spacing: 0.02em;
+    color: #696984;   
+}
+.T_L_Col5_Text{
+    margin-bottom: 26px; 
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 160%;
+    letter-spacing: 0.02em;
+    color: #696984;   
+}
+.T_L_Col6_Btn{
+    width: 403px;
+    height: 80px;
+    border: 1px solid #F48C06;
+    box-sizing: border-box;
+    border-radius: 80px;
+    background-color:transparent;     
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #F48C06;
+    margin-bottom: 160px;
+}
+.T_L_Col6_Btn_Circle{
+    position: relative;
+    top: -3px;
+    left: -80px;
+    width: 80px;
+    height: 80px;
+}
+.T_R_Img_Container{
+    position: relative;
+    max-width: 560px;
+}
+.T_R_Img_1{
+    width: 100%;
+    border-radius:20px
+}
+.T_R_Img_2{
+    position: absolute;
+    top: 235px;
+    left: 460px;
+}
+.T_R_Text_Container{
+    position: relative;
+    bottom: 275px;
+    left: 90px;
+    width: 680px;
+    height: 329px;
+    border:1px solid #cccccc;
+    background: #FFFFFF;
+    box-shadow: 2px 4px 60px rgba(41, 44, 124, 0.1);
+    border-radius: 20px;
+}
+.T_R_Text_Container::after{
+    Content:"";
+    position:absolute;
+    top: 0px;
+    height: 325px;
+    width: 14px;
+    background-color: #F67766;
+}
+.T_R_Text_Container::before{
+    Content:"";
+    position: absolute;
+    height: 139px;
+    width: 1px;
+    background-color:#ccc;
+    left: 55px;
+    top: 50px;
+}
+.T_R_TC_Text{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    width: 534px;
+    height: 160px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #5F5F7E;
+}
+.T_R_TC_Text_Link{
+    position: absolute;
+    top: 250px;
+    text-decoration: none;
+    left: 80px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 180%;
+    color: #5F5F7E;
+}
+.T_R_TC_Star{
+    position: absolute;
+    bottom: 55px;
+    left: 425px;
+}
+.T_R_TC_Reviews{
+    position: absolute;
+    bottom: 5px;
+    left: 426px;
+}

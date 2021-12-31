@@ -1,0 +1,151 @@
+.newsContainer{
+    margin-bottom: 160px;
+}
+.NewsTitle{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 180%;
+    color: #2F327D;
+    text-align: center;
+}
+.NewsTitleCol2{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 180%;
+    text-align: center;
+    color: #696984;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.N_L_Container{
+    max-width: 550px;
+    padding-right: 60px;
+    padding-left: 0px;
+}
+.N_L_Row_Container{
+    margin-bottom: 60px;
+}
+.N_L_Col_1{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.N_L_Col_2{
+    width: 130px;
+    height: 40px;
+    background: #F4C467;
+    border-radius: 80px;
+    margin-bottom: 22px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #252641;
+    border: none;
+    outline: none;
+}
+.N_L_Col_3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 180%;
+    color: #252641;
+}
+.N_L_Col_4{    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #696984;
+}
+.N_L_Col_5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    text-decoration-line: underline;
+    color: #696984;
+}
+
+
+.N_R_Container{
+    max-width: 927px;
+    padding-left: 0px;
+}
+.N_R_Row_Container{}
+.N_R_Img1{
+    margin-bottom: 50px;
+    padding-right: 0px;
+    max-width: 100%;
+}
+.N_R_Img2{
+    margin-bottom: 50px;
+    padding-right: 0px;
+    max-width: 100%;
+}
+.N_R_Img3{
+    padding-right: 0px;
+    max-width: 100%;
+}
+.N_R_Text_Col1{
+    width: 100%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 180%;
+    color: #252641;
+}
+.N_R_Text_Col2{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #696984;
+}
+.N_R_Text_Col3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 180%;
+    color: #252641;
+}
+.N_R_Text_Col4{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #696984;
+}
+.N_R_Text_Col5{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 180%;
+    color: #252641;
+}
+.N_R_Text_Col6{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #696984;
+}

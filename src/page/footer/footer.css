@@ -1,0 +1,118 @@
+.footer{
+    max-width: 1920px;
+    min-width: 100%;
+    min-height: 593px;
+    background-color: #252641;
+}
+.footerContainer{
+    width: 600px;
+    margin: 0px auto;
+}
+.F_C_Top{
+    margin: 0 auto;
+    width: 388px;
+}
+
+.footerTop{
+    margin-top: 74px;
+}
+.virtualClass{   
+    /* display: flex; */
+    width: 156px;
+    height: 66px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    margin-top: 6px;
+    margin-left: 82px;
+}
+
+.subscribe{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #B2B3CF;
+    margin: 0px auto;
+    margin-top: 95px;
+    margin-bottom: 20px;
+}
+.myForm{
+    width: 600px;
+    margin: 0px auto;
+    margin-bottom: 96px;
+}
+.myForm input{
+    width: 400px;
+    height: 60px;
+    border: 1px solid #83839A;
+    box-sizing: border-box;
+    border-radius: 80px;
+    background-color:transparent;
+}
+.myForm input::placeholder{
+    padding-left: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #83839A;
+}
+.myForm button{
+    margin-left: 20px;
+    width: 179px;
+    height: 60px;
+    background: linear-gradient(105.5deg, #545AE7 19.57%, #393FCF 78.85%);
+    border-radius: 60px;
+    border:none;
+    outline: none;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+.footerLink{
+    width: 93px;
+    height: 33px;
+    margin-right: 40px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #B2B3CF;
+    text-decoration:none;
+    margin-bottom: 20px;
+}
+.footerLinks{
+    text-align: center;
+}
+.myFormContainer{
+    text-align: center;
+}
+.footerBottom{
+    width: 358px;
+    margin: 0 auto;
+    margin-top: 30px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #B2B3CF;
+}

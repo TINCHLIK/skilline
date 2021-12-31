@@ -1,0 +1,120 @@
+.myHeader{
+    height: 1118px;
+    /* width: 1920px; faollantirilsa navbar ishlamadi */
+    /* background: #FFF2E1; */
+    background-color: #FFF2E1 !important;
+}
+.customHeader{
+    padding-left: 100px !important;
+    padding-right: 126px !important;
+}
+.headerLink{
+    margin-right: 80px;
+}
+.myHeaderLink{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px !important;
+    line-height: 33px;
+    letter-spacing: 0.02em !important;
+    color: #252641 !important;
+}
+.headerLogin{
+    margin-right: 34px !important;
+    background-color:#FFFFFF !important;
+    color:#F48C06 !important;
+    height: 60px;
+    width: 160px;
+    border-radius:80px !important;
+    box-shadow: 0px 20px 24px rgba(0, 0, 0, 0.03) !important;
+    border:none !important;
+    outline:none !important;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px !important;
+    letter-spacing: 0.02em !important;
+    color: #6C6C6C;
+}
+.headerSignUp{
+    background-color:#F48C06 !important;
+    color:#FFFFFF !important;
+    height: 60px;
+    width: 160px;
+    border-radius:80px !important;
+    border:none !important;
+    outline:none !important;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px !important;
+    letter-spacing: 0.02em !important;
+    color:#FFFFFF;
+}
+
+
+
+/* HEADER BOSHLANDI */
+
+.myHeader{
+    /* height: 1118px; */
+    -webkit-border-radius: 0px 0px 700px 700px / 40px 40px 100px 100px;
+    border-radius: 0px 0px 700px 700px / 40px 40px 100px 100px;
+}
+.headerLeftContent{
+    width: 681px !important;
+    padding-left: 140px !important;
+    padding-right: 74px !important; 
+}
+.headerLeftContentWork{
+    margin-top: 200px;
+}
+.headerLeftContent p{
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px !important;
+line-height: 160%;
+color: #464646;
+text-align: justify;
+margin-top: 34px;
+margin-bottom: 52px !important;
+}
+.headerLeftContentBtn{
+    background-color:#F48C06 !important;
+    color:#FFFFFF !important;
+    height: 80px;
+    width: 220px;
+    border-radius:80px !important;
+    border:none !important;
+    outline:none !important;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px !important;
+    letter-spacing: 0.08em !important;
+}
+.headerLeftContentPlay{
+    margin-left: 40px;
+    margin-right: 32px;
+    position: relative;
+    top: -43px;
+}
+.headerLeftContentPTag{
+    margin-left: 100px;
+    display: flex;
+    width: 232px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px !important;
+    line-height: 36px;
+    color: #252641;
+    margin-top: 18px;
+    margin-left: 45px;
+}
+.headerRigtContentPicture{
+    /* ____ */
+}
+/* HEADER TUGADI */

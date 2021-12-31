@@ -1,0 +1,18 @@
+.company{
+    background: #E5E5E5;
+    background-color: #fff;
+    margin-top: 100px;
+    margin-bottom: 168px;
+}
+.companyPride{
+    width: 603px;
+    height: 45px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 160%;
+    letter-spacing: 0.02em;
+    color: #696984;
+    margin-bottom: 42px;
+}
